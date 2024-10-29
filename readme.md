@@ -66,6 +66,4 @@ This is a Flask web application that allows users to get current weather informa
 3. View results on dedicated pages showing weather conditions.
 
 ## Acknowledgements
-
-- Developed by Make School students © 2020.
 - OpenWeatherMap API for weather data.
